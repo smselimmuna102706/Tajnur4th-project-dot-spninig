@@ -1,0 +1,26 @@
+#main-section{
+      width: 263px;
+      margin: auto;
+      margin-top: 292px;
+      /*! text-align: center; */
+      
+   }
+   #left{
+    position:absolute;
+   }
+   #right{
+      position: relative;
+      right: -113px;
+      top: -44px;
+   }
+   #first{
+         color: red;
+         font-size: 71px;
+         
+   }
+
+   #main-section{
+      display: none;
+   }
+   
+   
